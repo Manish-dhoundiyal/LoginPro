@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656060201 source:c:\loginpro\loginpro2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
